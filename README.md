@@ -21,7 +21,7 @@ It is capable of predicting the following structures :
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)
 ## :construction: Installation
-- Python version used : 3.10.10
+- Python version used : 3.10.10 or 3.8.16
 - tkinter version 8.6 or newer 
 (you can install it with `pip install tk`). If pip is not installed, you can follow this link : https://pip.pypa.io/en/stable/installation
 - JAVA for VARNA : http://varna.lri.fr/index.php?lang=en&page=home&css=varna
